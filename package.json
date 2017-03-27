@@ -1,5 +1,5 @@
 {
-  "name": "voxel-dummay-player",
+  "name": "voxel-dummy-player",
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
