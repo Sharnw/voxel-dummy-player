@@ -74,7 +74,7 @@ module.exports = function (game) {
             physics.pitch.rotation.z = xyz.z;
         };
 
-        physics.lookAt = function (x, y, z) {
+        physics.lookAt = function (obj) {
             var b = obj.position || obj;
             var a = this.position;
             
