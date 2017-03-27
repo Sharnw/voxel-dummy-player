@@ -1,0 +1,20 @@
+{
+  "name": "voxel-dummay-player",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "minecraft-skin": "~0.1.0"
+  },
+  "devDependencies": {
+    "voxel": "~0.1.3",
+    "voxel-engine": "~0.6.0",
+    "voxel-hello-world": "^0.6.0",
+    "voxel-player": "^0.1.0"
+  },
+  "readmeFilename": "readme.markdown",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sharnw/voxel-dummy-player.git"
+  },
+  "version": "0.1.0"
+}
