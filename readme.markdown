@@ -96,8 +96,8 @@ Make dummy jump by height of y.
 
 # license
 
+MIT
+
 # BUGS
 
 If created after player it auto-possesses the dummy. Not sure why, but feel free to help out :)
-
-MIT
