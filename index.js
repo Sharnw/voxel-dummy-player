@@ -20,9 +20,7 @@ module.exports = function (game) {
         physics.yaw = dummy;
         physics.pitch = dummy.head;
         physics.subjectTo(game.gravity);
-        
-        game.control(physics);
-        
+                
         physics.move = function (x, y, z) {
             var xyz = parseXYZ(x, y, z);
             physics.yaw.position.x += xyz.x;
