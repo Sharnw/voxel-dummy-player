@@ -105,7 +105,3 @@ With [npm](https://npmjs.org) do:
 ```
 npm install voxel-dummy-player
 ```
-
-# BUGS
-
-If created after player it auto-possesses the dummy. Not sure why, but feel free to help out :)
